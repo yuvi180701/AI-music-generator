@@ -1,0 +1,8 @@
+tensorflow
+pretty_midi
+music21
+numpy
+pandas
+tk
+midi2audio
+pygame
